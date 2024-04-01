@@ -2,7 +2,7 @@ package javastarter;
 
 public class Program {
     public static void main(String[] args) {
-        System.out.println(sumOfNumber(45));
+        System.out.println(sumOfNumber(15545));
     }
 
     public static int sumOfNumber(int number) {
